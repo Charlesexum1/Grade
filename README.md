@@ -1,0 +1,2 @@
+# Grade
+Basic enumeration.
